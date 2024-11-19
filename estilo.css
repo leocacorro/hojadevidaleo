@@ -1,0 +1,36 @@
+.contenedor{
+    max-width: 55%;
+    margin: 0 auto;
+    border: solid 1px;
+    color: black;
+    padding: 100px;
+    align-content: center;
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.borde{
+    border-bottom: solid 3px;
+    color: red;
+    padding-top: 10%;
+}
+.imagePelis{
+    display: flex;
+    gap: 20px;
+}
+.imagePelisnombre{
+    display: flex;
+    gap: 170px;
+    text-align: center;
+}
+.foto1{
+    width: 250px;
+    height: 250px;
+}
+h1{
+
+    font-size:  50px;
+
+}
+h2{
+    font-size: 35px ;
+}
